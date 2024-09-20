@@ -1,2 +1,2 @@
 # CognoRise-Infotech
-Java  Prornamms
+Java  Prorgamms
