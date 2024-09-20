@@ -1,2 +1,2 @@
 # CognoRise-Infotech
-Java  Prorgamms
+Java  Programms
